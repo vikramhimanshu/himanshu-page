@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: https://github.com/vikramhimanshu/himanshu-page
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
